@@ -59,4 +59,5 @@ console.log ("Hoy no trabajo") ? console.log("Hoy trabajo");
 const arrayBucle = [];
 for (let i = 4 < 18; i++) {console.log (arrayBucle)} //no caigo ahora mismo
 
+//Recorre la variable creada anteriormente arrayBucle ,suma todos sus elementos y guárdalos en una variable de nombre resultado
 

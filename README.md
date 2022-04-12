@@ -11,8 +11,8 @@ _Este proyecto fue desarrollado con las siguiente tecnologías:_
 Para desplegar este proyecto debes clonarte el respositorio a través de el siguiente link:
 
 ```
-enlace al repo
+https://github.com/GabryTM/JS2.git
 ```
 
 ## Autor
-Este proyecto fue desarrollado por Gabriel Tapia Manzanero (enlace github)
+Este proyecto fue desarrollado por Gabriel Tapia Manzanero (https://github.com/GabryTM/JS2.git)
